@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh_foANJSLx3fXPUbx-uf7LeUffyVsx6WYw&usqp=CAU)](https://saimim.io)
+[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://saimim.io)
 
 <h1 align="center">Hi 👋, I'm MD Saimim Islam Khan Hamim</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
