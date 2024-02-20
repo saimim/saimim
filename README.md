@@ -1,9 +1,15 @@
-[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://saimim.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh_foANJSLx3fXPUbx-uf7LeUffyVsx6WYw&usqp=CAU)](https://saimim.io)
+
 <h1 align="center">Hi 👋, I'm MD Saimim Islam Khan Hamim</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimim&label=Profile%20views&color=0e75b6&style=flat" alt="saimim" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimim" alt="saimim" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/SaimimK" target="blank"><img src="https://img.shields.io/twitter/follow/SaimimK?logo=twitter&style=for-the-badge" alt="SaimimK" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Natural Language Processing**
 
@@ -17,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/SaimimK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SaimimK" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-saimim-islam-khan-hamim-162537277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saimim-islam-khan-hamim-162537277" height="30" width="40" /></a>
 <a href="https://kaggle.com/saimimkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saimimkhan" height="30" width="40" /></a>
 <a href="https://fb.com/saimim2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimim2001" height="30" width="40" /></a>
