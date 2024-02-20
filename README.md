@@ -1,20 +1,17 @@
 [![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://saimim.io)
-
 <h1 align="center">Hi 👋, I'm MD Saimim Islam Khan Hamim</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimim&label=Profile%20views&color=0e75b6&style=flat" alt="saimim" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/SaimimK" target="blank"><img src="https://img.shields.io/twitter/follow/SaimimK?logo=twitter&style=for-the-badge" alt="SaimimK" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Natural Language Processing**
+- 🔭 I’m currently working on **Health Information Research Lab**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision, Machine Learning, Natural Language Processing, Artificial intelligence**
 
-- 💬 Ask me about **Machine Learning, Python and C programming**
+- 💬 Ask me about **Computer Science and Engineering related issue**
 
 - 📫 How to reach me **saimimislam@gmail.com**
 
