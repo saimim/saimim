@@ -31,6 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimim&show_icons=true&locale=en&layout=compact" alt="saimim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimim&show_icons=true&locale=en" alt="GitHub Streak" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saimim&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
