@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/SaimimK" target="blank"><img src="https://img.shields.io/twitter/follow/SaimimK?logo=twitter&style=for-the-badge" alt="SaimimK" /></a> </p>
 
-- 🔭 I’m currently working on **Health Information Research Lab**
 
 - 🌱 I’m currently learning **Computer Vision, Machine Learning, Natural Language Processing, Artificial intelligence**
 
