@@ -9,14 +9,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,45:4A1F2B,100:8B2635&height=220&section=header&text=Md.%20Saimim%20Islam%20Khan%20Hamim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B83A4B&center=true&vCenter=true&width=850&height=50&lines=MSc+Researcher+%7C+NLP+%26+Computer+Vision;Lecturer+%7C+Machine+Learning+Researcher;Bangla+NLP+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;Building+AI+systems+for+language%2C+vision%2C+and+real-world+problems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B83A4B&center=true&vCenter=true&width=850&height=50&lines=MSc+Researcher+%7C+NLP+%26+Computer+Vision;Lecturer+%7C+Machine+Learning+Researcher;Bangla+NLP+%E2%80%A2+Deep+Learning+%E2%80%A2+Bioinformatics;Researching+language%2C+vision%2C+and+biological+data" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/MSc%20Researcher-NLP%20%26%20Computer%20Vision-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
 <img src="https://img.shields.io/badge/Lecturer-Daffodil%20International%20University-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
-<img src="https://img.shields.io/badge/Research-Bangla%20AI%20%26%20Deep%20Learning-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+<img src="https://img.shields.io/badge/Research-Bangla%20NLP%20%26%20Bioinformatics-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
 
 <br/><br/>
 
@@ -56,51 +56,92 @@
 
 <br/>
 
-```python
-from dataclasses import dataclass, field
+<div align="center">
 
+### MSc Researcher · Lecturer · AI/ML Researcher
 
-@dataclass
-class SaimimIslamKhanHamim:
-    name: str = "Md. Saimim Islam Khan Hamim"
+</div>
 
-    role: str = "MSc Researcher & Lecturer"
+<br/>
 
-    research_domains: list[str] = field(default_factory=lambda: [
-        "Bangla Natural Language Processing",
-        "Computer Vision",
-        "Deep Learning",
-        "Machine Learning",
-    ])
+<div align="center">
 
-    current_focus: list[str] = field(default_factory=lambda: [
-        "Plant Growth Stage Estimation",
-        "Cross-Crop Generalisation",
-        "RGB-Based Phenotyping",
-        "Agricultural Computer Vision",
-    ])
+<table>
+<tr>
+<td align="center" width="25%">
 
-    research_interests: list[str] = field(default_factory=lambda: [
-        "NLP",
-        "Computer Vision",
-        "Transformer Architectures",
-        "Medical Imaging",
-        "Agricultural AI",
-    ])
+🧠
+**NLP**
 
-    open_to: list[str] = field(default_factory=lambda: [
-        "Research Collaboration",
-        "Academic Projects",
-        "Open Source",
-        "AI/ML Discussions",
-    ])
+<br/>
 
-    motto: str = "Research. Build. Learn. Share."
-```
+Bangla NLP
+Sentiment Analysis
+Transformers
 
-> I am a Computer Science graduate and active researcher working at the intersection of **Natural Language Processing, Computer Vision, and Deep Learning**.
+</td>
+
+<td align="center" width="25%">
+
+👁️
+**Computer Vision**
+
+<br/>
+
+Image Processing
+Deep Learning
+Visual Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+🧬
+**Bioinformatics**
+
+<br/>
+
+Sequence Analysis
+Genome Assembly
+Peptide Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+**Machine Learning**
+
+<br/>
+
+Deep Learning
+ML Models
+Research
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+> I am a Computer Science graduate, researcher, and lecturer working across **Natural Language Processing, Computer Vision, Deep Learning, and Bioinformatics**.
 >
-> My research interests include **Bangla NLP, sentiment analysis, transformer-based models, agricultural computer vision, and RGB-based phenotyping**. I am currently pursuing an MSc in Computer Science and Engineering with a focus on **Data Science, Advanced Machine Learning, and Research Methodology**, while contributing to academic teaching and research at Daffodil International University.
+> My research interests include **Bangla NLP, sentiment analysis, transformer-based models, image processing, medical imaging, sequence analysis, genome assembly, and inhibitory peptide analysis**.
+>
+> I am currently pursuing an **MSc in Computer Science and Engineering at Daffodil International University**, with a focus on **Data Science, Advanced Machine Learning, and Research Methodology**, while continuing my academic and research activities.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Research-8B2635?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Teaching-8B2635?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Learning-8B2635?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Building-8B2635?style=for-the-badge&labelColor=171717"/>
+
+</div>
 
 <br/>
 
@@ -112,13 +153,13 @@ class SaimimIslamKhanHamim:
 
 <!-- ============================================================= -->
 
-<!--                         RESEARCH FOCUS                        -->
+<!--                         CURRENT FOCUS                         -->
 
 <!-- ============================================================= -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%AC%20RESEARCH%20FOCUS-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20CURRENT%20FOCUS-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
 
 </div>
 
@@ -126,25 +167,38 @@ class SaimimIslamKhanHamim:
 
 <div align="center">
 
-| Area | Focus                                  |
-| :--: | :------------------------------------- |
-|  🧠  | **Natural Language Processing**        |
-| 🇧🇩 | **Bangla NLP & Sentiment Analysis**    |
-|  👁️ | **Computer Vision**                    |
-|  🌱  | **Agricultural Computer Vision**       |
-|  🧬  | **Bioinformatics & Sequence Analysis** |
-|  🤖  | **Deep Learning & Transformers**       |
-|  🏥  | **Medical Imaging & Visual Analysis**  |
+|        🧠 NLP       | 👁️ Computer Vision | 🧬 Bioinformatics | 🤖 Deep Learning |
+| :-----------------: | :-----------------: | :---------------: | :--------------: |
+|      Bangla NLP     |   Image Processing  | Sequence Analysis |        CNN       |
+|  Sentiment Analysis |   Medical Imaging   |  Genome Assembly  |        RNN       |
+| Text Classification |   Visual Analysis   |  Peptide Analysis |       LSTM       |
+|     Transformers    |    Deep Learning    |  Biological Data  |   Transformers   |
 
 </div>
 
 <br/>
 
-### Current Research Direction
+### 🔬 Research Interests
 
-My current research work focuses on **plant growth stage estimation and cross-crop generalisation using low-cost RGB cameras**, extending my broader interests in computer vision, machine learning, and practical AI systems.
+* **Natural Language Processing**
+* **Bangla Natural Language Processing**
+* **Sentiment Analysis & Text Classification**
+* **Transformer-Based Models**
+* **Computer Vision & Image Processing**
+* **Medical Imaging**
+* **Bioinformatics**
+* **Sequence Analysis**
+* **Genome Assembly**
+* **Inhibitory Peptide Analysis**
+* **Deep Learning**
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+
+</div>
 
 <!-- ============================================================= -->
 
@@ -160,29 +214,29 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 <br/>
 
-### 🎓 Lecturer (Contractual)
+### 🎓 Lecturer
 
 **Department of Software Engineering — Daffodil International University**
 
-`May 2026 — August 2026`
+`15 May 2026 — Present`
 
-* Taught undergraduate courses in the Department of Software Engineering.
-* Conducted academic activities and supported undergraduate learning.
-* Contributed to departmental teaching responsibilities.
+* Teaching undergraduate courses.
+* Conducting academic activities in the Department of Software Engineering.
+* Supporting students through academic instruction and guidance.
 
 ---
 
 ### 🧑‍🏫 Graduate Teaching Assistant
 
-**Department of Information Technology & Management — Daffodil International University**
+**Department of ITM — Daffodil International University**
 
 `July 2025 — April 2026`
 
 * Assisted faculty with academic tasks and course documentation.
-* Managed and calculated student marks.
-* Prepared lecture content and presentation materials.
+* Managed course-related documentation and student marks.
+* Prepared presentation slides and lecture content.
 * Organised course materials.
-* Supported communication between students and faculty.
+* Facilitated communication between students and faculty.
 
 ---
 
@@ -194,7 +248,7 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 * Managed research lab operations.
 * Coordinated research activities.
-* Facilitated communication among lab members and faculty supervisors.
+* Facilitated communication between lab members and faculty supervisors.
 
 ---
 
@@ -204,8 +258,8 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 `October 2024 — April 2025`
 
-* Mentored participants in machine learning concepts.
-* Supported participants with ML tools and research methodology.
+* Mentored participants in machine learning concepts and tools.
+* Supported participants with research methodology.
 * Contributed to a structured machine learning research bootcamp.
 
 <br/>
@@ -260,13 +314,11 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 📍 Dhaka, Bangladesh
 
-**CGPA:** `3.52 / 4.00`
-
 **Research Areas**
 
 * Machine Learning
 * Deep Learning
-* NLP
+* Natural Language Processing
 * Computer Vision
 
 </td>
@@ -277,10 +329,13 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 <div align="center">
 
-| Qualification     | Institution              |      Result     |
-| :---------------- | :----------------------- | :-------------: |
-| **HSC — Science** | Savar Government College | **4.33 / 5.00** |
-| **SSC — Science** | Badda High School        | **4.61 / 5.00** |
+### Earlier Education
+
+**Higher Secondary Certificate — Science**
+Savar Government College · `2018 — 2020`
+
+**Secondary School Certificate — Science**
+Badda High School · `2017 — 2018`
 
 </div>
 
@@ -388,11 +443,6 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 <img src="https://img.shields.io/badge/PyTorch-171717?style=for-the-badge&logo=pytorch&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/TensorFlow-171717?style=for-the-badge&logo=tensorflow&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/Scikit--learn-171717?style=for-the-badge&logo=scikit-learn&logoColor=B83A4B"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/CNN-171717?style=for-the-badge&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/RNN-171717?style=for-the-badge&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/LSTM-171717?style=for-the-badge&logoColor=B83A4B"/>
@@ -418,7 +468,6 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 <img src="https://img.shields.io/badge/OpenCV-171717?style=for-the-badge&logo=opencv&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/Image%20Processing-171717?style=for-the-badge&logoColor=B83A4B"/>
-<img src="https://img.shields.io/badge/RGB%20Phenotyping-171717?style=for-the-badge&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/Medical%20Imaging-171717?style=for-the-badge&logoColor=B83A4B"/>
 
 </p>
@@ -427,9 +476,10 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Bioinformatics-171717?style=for-the-badge&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/Sequence%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
 <img src="https://img.shields.io/badge/Genome%20Assembly-171717?style=for-the-badge&logoColor=B83A4B"/>
-<img src="https://img.shields.io/badge/Inhibitory%20Peptide%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
+<img src="https://img.shields.io/badge/Peptide%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
 
 </p>
 
@@ -454,7 +504,7 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 <!-- ============================================================= -->
 
-<!--                      RESEARCH MAP                             -->
+<!--                       RESEARCH MAP                            -->
 
 <!-- ============================================================= -->
 
@@ -468,7 +518,7 @@ My current research work focuses on **plant growth stage estimation and cross-cr
 
 ```mermaid
 mindmap
-  root((AI Research))
+  root((AI & Research))
     Natural Language Processing
       Bangla NLP
       Sentiment Analysis
@@ -477,10 +527,8 @@ mindmap
       Transformers
     Computer Vision
       Image Processing
-      Agricultural Vision
-      RGB Phenotyping
       Medical Imaging
-      3D Reconstruction
+      Visual Analysis
     Deep Learning
       CNN
       RNN
@@ -489,11 +537,10 @@ mindmap
     Bioinformatics
       Sequence Analysis
       Genome Assembly
-      Peptide Analysis
-    Applied AI
-      Plant Growth
-      E-commerce Reviews
-      Healthcare
+      Inhibitory Peptide Analysis
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
 ```
 
 <br/>
@@ -516,13 +563,13 @@ mindmap
 
 <a href="https://github.com/saimim">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimim&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&icon_color=B83A4B&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&icon_color=B83A4B&text_color=FFFFFF"/>
 
 </a>
 
 <a href="https://github.com/saimim">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimim&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&text_color=FFFFFF"/>
 
 </a>
 
@@ -532,7 +579,7 @@ mindmap
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saimim&bg_color=171717&color=B83A4B&line=B83A4B&point=FFFFFF&area=true&area_color=4A1F2B&hide_border=true&custom_title=Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=171717&color=B83A4B&line=B83A4B&point=FFFFFF&area=true&area_color=4A1F2B&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
@@ -540,7 +587,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saimim&color=8B2635&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8B2635&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -569,7 +616,7 @@ mindmap
 <div align="center">
 
 I am interested in **research collaboration, academic projects, machine learning,
-NLP, computer vision, and open-source AI projects.**
+NLP, computer vision, bioinformatics, and open-source AI projects.**
 
 <br/><br/>
 
@@ -601,7 +648,7 @@ NLP, computer vision, and open-source AI projects.**
 
 <sub>
 
-<strong>Researching language. Understanding vision. Building intelligent systems.</strong>
+<strong>Researching language. Understanding data. Building intelligent systems.</strong>
 
 </sub>
 
