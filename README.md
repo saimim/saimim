@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-Profile-171717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/saimim">
+<a href="https://www.linkedin.com/in/saimim/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B2635?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -628,7 +628,7 @@ NLP, computer vision, bioinformatics, and open-source AI projects.**
 <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/saimim">
+<a href="https://www.linkedin.com/in/saimim/">
 <img src="https://img.shields.io/badge/LinkedIn-8B2635?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
