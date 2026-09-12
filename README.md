@@ -517,6 +517,24 @@ Badda High School · `2017 — 2018`
 <br/>
 
 ```mermaid
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'darkMode': true,
+    'background': '#171717',
+    'primaryColor': '#8B2635',
+    'primaryTextColor': '#FFFFFF',
+    'primaryBorderColor': '#B83A4B',
+    'secondaryColor': '#4A1F2B',
+    'tertiaryColor': '#1F1F1F',
+    'lineColor': '#B83A4B',
+    'mainBkg': '#8B2635',
+    'nodeBorder': '#B83A4B',
+    'clusterBkg': '#171717',
+    'edgeLabelBackground': '#171717',
+    'fontFamily': 'Fira Code, monospace'
+  }
+}}%%
 mindmap
   root((AI & Research))
     Natural Language Processing
