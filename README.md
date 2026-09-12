@@ -532,17 +532,27 @@ Badda High School · `2017 — 2018`
     'nodeBorder': '#B83A4B',
     'clusterBkg': '#171717',
     'edgeLabelBackground': '#171717',
-    'fontFamily': 'Fira Code, monospace'
+    'fontFamily': 'Fira Code, monospace',
+    'cScale0': '#5B2C82',
+    'cScale1': '#B83A4B',
+    'cScale2': '#3E6B6B',
+    'cScale3': '#B87333',
+    'cScale4': '#A8324A',
+    'cScaleLabel0': '#FFFFFF',
+    'cScaleLabel1': '#FFFFFF',
+    'cScaleLabel2': '#FFFFFF',
+    'cScaleLabel3': '#FFFFFF',
+    'cScaleLabel4': '#FFFFFF'
   }
 }}%%
 mindmap
   root((AI & Research))
-    Natural Language Processing:::nlp
-      Bangla NLP:::nlp
-      Sentiment Analysis:::nlp
-      Text Classification:::nlp
-      BERT:::nlp
-      Transformers:::nlp
+    Natural Language Processing
+      Bangla NLP
+      Sentiment Analysis
+      Text Classification
+      BERT
+      Transformers
     Computer Vision
       Image Processing
       Medical Imaging
@@ -559,8 +569,6 @@ mindmap
     Machine Learning
       Supervised Learning
       Unsupervised Learning
-
-classDef nlp fill:#5B2C82,color:#FFFFFF,stroke:#B983E0,stroke-width:2px
 ```
 
 <br/>
