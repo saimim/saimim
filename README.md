@@ -573,6 +573,12 @@ mindmap
 
 <br/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+
+</div>
+
 <!-- ============================================================= -->
 
 <!--                         CONNECT                               -->
