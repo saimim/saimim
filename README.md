@@ -537,12 +537,12 @@ Badda High School · `2017 — 2018`
 }}%%
 mindmap
   root((AI & Research))
-    Natural Language Processing
-      Bangla NLP
-      Sentiment Analysis
-      Text Classification
-      BERT
-      Transformers
+    Natural Language Processing:::nlp
+      Bangla NLP:::nlp
+      Sentiment Analysis:::nlp
+      Text Classification:::nlp
+      BERT:::nlp
+      Transformers:::nlp
     Computer Vision
       Image Processing
       Medical Imaging
@@ -559,6 +559,8 @@ mindmap
     Machine Learning
       Supervised Learning
       Unsupervised Learning
+
+classDef nlp fill:#5B2C82,color:#FFFFFF,stroke:#B983E0,stroke-width:2px
 ```
 
 <br/>
