@@ -563,13 +563,13 @@ mindmap
 
 <a href="https://github.com/saimim">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&icon_color=B83A4B&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimim&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&icon_color=B83A4B&text_color=FFFFFF"/>
 
 </a>
 
 <a href="https://github.com/saimim">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimim&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&text_color=FFFFFF"/>
 
 </a>
 
@@ -579,7 +579,7 @@ mindmap
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=171717&color=B83A4B&line=B83A4B&point=FFFFFF&area=true&area_color=4A1F2B&hide_border=true&custom_title=Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saimim&bg_color=171717&color=B83A4B&line=B83A4B&point=FFFFFF&area=true&area_color=4A1F2B&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
@@ -587,7 +587,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8B2635&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=saimim&color=8B2635&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
