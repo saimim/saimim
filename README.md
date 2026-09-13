@@ -6,30 +6,46 @@
 
 <!-- ============================================================= -->
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,45:4A1F2B,100:8B2635&height=220&section=header&text=Md.%20Saimim%20Islam%20Khan%20Hamim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+</a>
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://github.com/saimim">
+  <a href="https://github.com/saimim">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B83A4B&center=true&vCenter=true&width=850&height=50&lines=MSc+Researcher+%7C+NLP+%26+Computer+Vision;Lecturer+%7C+Machine+Learning+Researcher;Bangla+NLP+%E2%80%A2+Deep+Learning+%E2%80%A2+Bioinformatics;Researching+language%2C+vision%2C+and+biological+data" alt="Typing SVG"/>
+  </a>
 </a>
 
 <br/>
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/MSc%20Researcher-NLP%20%26%20Computer%20Vision-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Lecturer-Daffodil%20International%20University-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Research-Bangla%20NLP%20%26%20Bioinformatics-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 <br/><br/>
 
 <a href="mailto:saimimislam@gmail.com">
+  <a href="https://github.com/saimim">
   <img src="https://img.shields.io/badge/Email-saimimislam%40gmail.com-8B2635?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </a>
 
 <a href="https://github.com/saimim">
+  <a href="https://github.com/saimim">
   <img src="https://img.shields.io/badge/GitHub-Profile-171717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </a>
 
 <a href="https://www.linkedin.com/in/saimim/">
+  <a href="https://github.com/saimim">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B2635?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </a>
 
 </div>
@@ -38,7 +54,9 @@
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -50,7 +68,9 @@
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%91%8B%20ABOUT%20ME-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -136,10 +156,18 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Research-8B2635?style=for-the-badge&labelColor=171717"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Teaching-8B2635?style=for-the-badge&labelColor=171717"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Learning-8B2635?style=for-the-badge&labelColor=171717"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Building-8B2635?style=for-the-badge&labelColor=171717"/>
+</a>
 
 </div>
 
@@ -147,7 +175,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -159,7 +189,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20CURRENT%20FOCUS-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -196,7 +228,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -208,7 +242,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%92%BC%20EXPERIENCE-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -266,7 +302,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -278,7 +316,9 @@ Research
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%8E%93%20EDUCATION-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -343,7 +383,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -355,7 +397,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%93%9A%20PUBLICATIONS-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -399,9 +443,13 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/IEEE%20Xplore-Research%20Publications-8B2635?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Springer-LNNS-171717?style=for-the-badge&logo=springer&logoColor=white"/>
+</a>
 
 </div>
 
@@ -409,7 +457,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -421,7 +471,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%E2%9A%A1%20TECHNICAL%20ARSENAL-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -431,8 +483,12 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/C-171717?style=for-the-badge&logo=c&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -440,13 +496,27 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/PyTorch-171717?style=for-the-badge&logo=pytorch&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/TensorFlow-171717?style=for-the-badge&logo=tensorflow&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Scikit--learn-171717?style=for-the-badge&logo=scikit-learn&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/CNN-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/RNN-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/LSTM-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Transformers-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -454,11 +524,21 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/NLP-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Sentiment%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Text%20Classification-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/BERT-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Flair-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -466,9 +546,15 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/OpenCV-171717?style=for-the-badge&logo=opencv&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Image%20Processing-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Medical%20Imaging-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -476,10 +562,18 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Bioinformatics-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Sequence%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Genome%20Assembly-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Peptide%20Analysis-171717?style=for-the-badge&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -487,10 +581,18 @@ Badda High School · `2017 — 2018`
 
 <p align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/LaTeX-171717?style=for-the-badge&logo=latex&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Microsoft%20Word-171717?style=for-the-badge&logo=microsoftword&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-171717?style=for-the-badge&logo=microsoftexcel&logoColor=B83A4B"/>
+</a>
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-171717?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B83A4B"/>
+</a>
 
 </p>
 
@@ -498,7 +600,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -510,7 +614,9 @@ Badda High School · `2017 — 2018`
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%A7%A9%20RESEARCH%20MAP-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -573,9 +679,69 @@ mindmap
 
 <br/>
 
+<!-- ============================================================= -->
+
+<!--                       GITHUB STATS                            -->
+
+<!-- ============================================================= -->
+
 <div align="center">
 
+<a href="https://github.com/saimim">
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20ACTIVITY-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/saimim">
+
+<a href="https://github.com/saimim">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimim&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&icon_color=B83A4B&text_color=FFFFFF"/>
+</a>
+
+</a>
+
+<a href="https://github.com/saimim">
+
+<a href="https://github.com/saimim">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimim&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=171717&title_color=B83A4B&text_color=FFFFFF"/>
+</a>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/saimim">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saimim&bg_color=171717&color=B83A4B&line=B83A4B&point=FFFFFF&area=true&area_color=4A1F2B&hide_border=true&custom_title=Contribution%20Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/saimim">
+<img src="https://komarev.com/ghpvc/?username=saimim&color=8B2635&style=for-the-badge&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:8B2635&height=3&width=1000" width="100%"/>
+</a>
 
 </div>
 
@@ -587,7 +753,9 @@ mindmap
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/%F0%9F%94%97%20LET'S%20CONNECT-171717?style=for-the-badge&labelColor=171717&color=8B2635"/>
+</a>
 
 </div>
 
@@ -601,15 +769,21 @@ NLP, computer vision, bioinformatics, and open-source AI projects.**
 <br/><br/>
 
 <a href="mailto:saimimislam@gmail.com">
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/Email-saimimislam%40gmail.com-8B2635?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </a>
 
 <a href="https://github.com/saimim">
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </a>
 
 <a href="https://www.linkedin.com/in/saimim/">
+<a href="https://github.com/saimim">
 <img src="https://img.shields.io/badge/LinkedIn-8B2635?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </a>
 
 </div>
@@ -624,7 +798,9 @@ NLP, computer vision, bioinformatics, and open-source AI projects.**
 
 <div align="center">
 
+<a href="https://github.com/saimim">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B2635,100:171717&height=140&section=footer" width="100%"/>
+</a>
 
 <sub>
 
